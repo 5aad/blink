@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/blink/static/css/main.06e91cfb.chunk.css",
+    "main.js": "/blink/static/js/main.48a90a13.chunk.js",
+    "main.js.map": "/blink/static/js/main.48a90a13.chunk.js.map",
+    "runtime-main.js": "/blink/static/js/runtime-main.f0d3ab64.js",
+    "runtime-main.js.map": "/blink/static/js/runtime-main.f0d3ab64.js.map",
+    "static/css/2.2c763c8f.chunk.css": "/blink/static/css/2.2c763c8f.chunk.css",
+    "static/js/2.6c1e6e19.chunk.js": "/blink/static/js/2.6c1e6e19.chunk.js",
+    "static/js/2.6c1e6e19.chunk.js.map": "/blink/static/js/2.6c1e6e19.chunk.js.map",
+    "index.html": "/blink/index.html",
+    "precache-manifest.6b11e2274f136056420fd999e305fa1d.js": "/blink/precache-manifest.6b11e2274f136056420fd999e305fa1d.js",
+    "service-worker.js": "/blink/service-worker.js",
+    "static/css/2.2c763c8f.chunk.css.map": "/blink/static/css/2.2c763c8f.chunk.css.map",
+    "static/css/main.06e91cfb.chunk.css.map": "/blink/static/css/main.06e91cfb.chunk.css.map",
+    "static/js/2.6c1e6e19.chunk.js.LICENSE.txt": "/blink/static/js/2.6c1e6e19.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/blink/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/blink/static/media/fa-solid-900.ec763292.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0d3ab64.js",
+    "static/css/2.2c763c8f.chunk.css",
+    "static/js/2.6c1e6e19.chunk.js",
+    "static/css/main.06e91cfb.chunk.css",
+    "static/js/main.48a90a13.chunk.js"
+  ]
+}
